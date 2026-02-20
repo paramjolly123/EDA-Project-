@@ -7,7 +7,7 @@ This README file should give you a complete description of how to get started an
 ## Contents of the Repository
 1. [EDA Project](EDA_Project.ipynb): This file contains all the final code from fetching the data to cleaning the data and finally analyzing and plotting the data. It contains 3 different hypothesis and finally 3+ recommendations for the chosen client (Jacob Phillips - see the Assignment file for more information)
 
-2. [Presentation](House_Recommendations_for _Jacob Phillips.pdf): This file contains the final presentation of the EDA project. It summarizes the hypothesis and recommendations for the client. 
+2. [Presentation](House_Recommendations_for_Jacob_Phillips.pdf): This file contains the final presentation of the EDA project. It summarizes the hypothesis and recommendations for the client. 
 
 3. [Fetching the data eda](Fetching_the_data_eda.ipynb): This file contains steps to fetch the data from SQL library. Additionally it contains code for cleaning and plotting the data using python (using multiple libraries).
 
